@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yimiaosl.github.io/json/music.json</loc>
+    <loc>https://yimiaosl.github.io/wordScenery/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/music/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/link/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/fcircle/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/essay/index.html</loc>
     
     <lastmod>2025-04-28</lastmod>
     
@@ -12,6 +48,42 @@
   
   <url>
     <loc>https://yimiaosl.github.io/equipment/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/dailyPhoto/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/about/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/album/index.html</loc>
+    
+    <lastmod>2025-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yimiaosl.github.io/json/music.json</loc>
     
     <lastmod>2025-04-28</lastmod>
     
